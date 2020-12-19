@@ -2,6 +2,10 @@
 
 This repository contains material for the ICON 2020 tutorial on _Unsupervised Machine Translation_
 
+## Summary
+The focus of this tutorial is to cover the breadth of the literature on recent advances in Unsupervised Machine Translation. The tutorial will help the audience in getting started with unsupervised machine translation. The tutorial will span over three sections. In the first section, we will cover the fundamental concepts like cross-lingual embeddings, denoising auto-encoders, language model pre-training, Back Translation (BT), etc which are key to the success of Unsupervised Machine Translation. In the second section, the tutorial will provide a brief summary of recent works on unsupervised machine translation. The tutorial will cover both Phrase-Based Statistical Machine Translation systems as well as Neural Machine Translation systems. In the last section, we will talk about the limitations of the existing approaches for Unsupervised machine translation approaches and provide general guidelines for successful training of these systems. We also discuss case-studies from Indian languages and provide results obtained with U-MT over Indian language pairs. Finally, we talk about possible research directions.
+
+
 
 ## Instructors
 
