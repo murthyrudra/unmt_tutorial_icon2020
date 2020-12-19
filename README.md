@@ -25,6 +25,6 @@ Online Conference
 
 ## Tutorial Material
 
-- Slides: [pdf](unmt_tutorial_slides.pdf)
+- Slides: [pdf](ICON2020_UnsupervisedMT_Tutorial_slides.pptx)
 - Bibliography: [pdf](ICON2020_TutorialBibliography.pdf)
 
