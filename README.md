@@ -10,10 +10,10 @@ The focus of this tutorial is to cover the breadth of the literature on recent a
 ## Instructors
 
 - [Rudra Murthy](http://murthyrudra.github.io/), Research Scientist, IBM, India. 
-- [Tamali Banerjee](https://www.cse.iitb.ac.in/~tamali/), Research Scholar, CFILT, IIT Bombay. 
-- [Jyotsana Khatri](https://www.cse.iitb.ac.in/~jyotsanak/), Research Scholar, CFILT, IIT Bombay.
-- [Diptesh Kanojia](http://dipteshkanojia.github.io/), Research Scholar, CFILT, IIT Bombay.
-- [Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb), Professor, CFILT, IIT Bombay. Former Director, IIT Patna
+- [Tamali Banerjee](https://www.cse.iitb.ac.in/~tamali/), Research Scholar, CFILT, IIT Bombay, India. 
+- [Jyotsana Khatri](https://www.cse.iitb.ac.in/~jyotsanak/), Research Scholar, CFILT, IIT Bombay, India.
+- [Diptesh Kanojia](http://dipteshkanojia.github.io/), Research Scholar, IITB-Monash Research Academy (IIT Bombay, India and Monash University, Australia), India.
+- [Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb), Professor, CFILT, IIT Bombay, India. Former Director, IIT Patna
 
 ## Venue 
 
